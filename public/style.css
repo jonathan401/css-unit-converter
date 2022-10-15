@@ -108,7 +108,7 @@ label {
   outline: 0;
   border-radius: var(--border-radius);
   padding: 0.7rem 1rem;
-  border: 1px solid var(--accent);
+  border: 1px solid #eee;
   color: #def3fa;
   background-color: var(--main-bg);
 }
