@@ -18,6 +18,7 @@ This is a screenshot of how the CSS unit converter looks like on desktop screens
 ```js
    navigator.clipboard.writeText(convertedValue)
 ```
+- Live preview of converted unit as you type
 
 ### What I might improve 🤔
 
