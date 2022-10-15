@@ -1,4 +1,4 @@
-const pattern = /\d/;
+const pattern = /^\d$/;
 
 const convertUnit = (
   input: number,
